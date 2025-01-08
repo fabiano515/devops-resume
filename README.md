@@ -28,7 +28,7 @@
 - 💻 GitHub: github.com/seu-usuario
 - 🌐 Acesse Meu Currículo Dinâmico
 Confira uma versão interativa do meu currículo hospedada no GitHub Pages:<br>
-👉 Clique aqui para acessar <a>
+👉 <a href=“index.html”>Clique aqui para acessar </a>
 
 ### 🎯 Meu Objetivo
 Estou em busca de oportunidades como DevOps ou SRE, onde possa aplicar minhas habilidades em automação e provisionamento de infraestrutura para entregar soluções robustas e escaláveis.
@@ -36,10 +36,10 @@ Estou em busca de oportunidades como DevOps ou SRE, onde possa aplicar minhas ha
 ### 🧰 Ferramentas Preferidas
 <table>
 <tr> <td>Categoria</td><td> Ferramentas </td></tr>
-<tr> <td> Infraestrutura</td><td>	Terraform, Kubernetes, Docker </td></tr>
+<tr> <td> Infraestrutura</td><td>Terraform, Kubernetes, Docker </td></tr>
 <tr> <td> CI/CD	</td><td>Jenkins, GitHub Actions, GitLab CI </td></tr>
-<tr> <td> Cloud </td><td>	AWS (EC2, S3, VPC, Route 53) </td></tr>
-<tr> <td> Monitoramento </td><td>	Zabbix, Prometheus, Grafana </td></tr>
-<tr> <td> Sistemas Operacionais </td><td>	Linux (Debian, Ubuntu), Windows</td></tr>
+<tr> <td> Cloud </td><td>AWS (EC2, S3, VPC, Route 53) </td></tr>
+<tr> <td> Monitoramento </td><td>Zabbix, Prometheus, Grafana </td></tr>
+<tr> <td> Sistemas Operacionais</td><td>Linux (Debian, Ubuntu), Windows</td></tr>
 </table>
 
