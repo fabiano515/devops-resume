@@ -1,4 +1,4 @@
-#Fabiano - DevOps e SRE
+Fabiano - DevOps e SRE
 🌟 Profissional versátil com mais de 15 anos de experiência em TI, agora focado em automação, confiabilidade e segurança como DevOps/SRE. Apaixonado por resolver problemas complexos e otimizar processos.
 
 🛠️ Habilidades Técnicas
