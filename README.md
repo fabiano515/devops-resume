@@ -25,7 +25,7 @@
 ## 📬 Entre em Contato
 - 📧 Email: fabiannoamachado@gmail.com
 - 🔗 LinkedIn: <a href= "https://linkedin.com/in/fabiano-a-machado">linkedin.com/in/fabiano-a-machado</a>
-- 💻 GitHub: github.com/seu-usuario
+- 💻 GitHub: <a href= "https://github.com/fabiano515"> github.com/fabiano515</a>
 - 🌐 Acesse Meu Currículo Dinâmico
 Confira uma versão interativa do meu currículo hospedada no GitHub Pages:<br>
 👉 <a href="https://fabiano515.github.io/devops-resume/"> Clique aqui para acessar </a>
