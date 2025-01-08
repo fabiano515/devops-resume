@@ -28,7 +28,7 @@
 - 💻 GitHub: github.com/seu-usuario
 - 🌐 Acesse Meu Currículo Dinâmico
 Confira uma versão interativa do meu currículo hospedada no GitHub Pages:<br>
-👉 <a href=“https://fabiano515.github.io/devops-resume” target="_blank"> Clique aqui para acessar </a>
+👉 <a href=[“[https://fabiano515.github.io/devops-resume” target="_blank"](https://fabiano515.github.io/devops-resume/)> Clique aqui para acessar </a>
 
 ### 🎯 Meu Objetivo
 Estou em busca de oportunidades como DevOps ou SRE, onde possa aplicar minhas habilidades em automação e provisionamento de infraestrutura para entregar soluções robustas e escaláveis.
