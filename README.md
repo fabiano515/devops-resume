@@ -30,10 +30,10 @@
 Confira uma versão interativa do meu currículo hospedada no GitHub Pages:<br>
 👉 Clique aqui para acessar <a>
 
-## 🎯 Meu Objetivo
+### 🎯 Meu Objetivo
 Estou em busca de oportunidades como DevOps ou SRE, onde possa aplicar minhas habilidades em automação e provisionamento de infraestrutura para entregar soluções robustas e escaláveis.
 
-## 🧰 Ferramentas Preferidas
+### 🧰 Ferramentas Preferidas
 <table>
 <tr> <td>Categoria</td><td> Ferramentas </td></tr>
 <tr> <td> Infraestrutura</td><td>	Terraform, Kubernetes, Docker </td></tr>
