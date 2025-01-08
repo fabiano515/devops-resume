@@ -18,7 +18,7 @@
 - Monitoramento de sistemas críticos com Zabbix.
 - Gerenciamento de servidores Linux e Windows em ambientes corporativos.
 - Configuração de firewalls e segurança de rede.
-📈 Projetos de Destaque
+## 📈 Projetos de Destaque
 - Provisionamento de clusters Kubernetes: Automatização do deployment de clusters EKS na AWS usando Terraform.
 - Pipeline CI/CD: Criação de uma pipeline completa para deploy automatizado em múltiplos ambientes.
 - Monitoramento escalável: Implementação de monitoramento com Zabbix e alertas configurados.
