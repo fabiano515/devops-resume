@@ -1,26 +1,22 @@
-name: Build and Deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main # Substitua pelo nome do branch principal do seu repositório, se necessário.
 
 jobs:
-  build:
-    runs-on: ubuntu-22.04
+  deploy:
+    runs-on: ubuntu-latest
+
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: 16
-    - name: Install Dependencies
-      run: npm install
-    - name: Build Project
-      run: npm run build
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.USER_GITHUB_TOKEN }}
-        publish_dir: ./docs
+      # 1. Checkout do código
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # 2. Configurar GitHub Pages
+      - name: Configure GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.USER_GITHUB_TOKEN }}
+          publish_dir: docs
